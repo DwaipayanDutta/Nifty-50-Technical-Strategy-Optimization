@@ -24,7 +24,7 @@ def load_combined_csv(filepath: str) -> pd.DataFrame:
     return df
 
 # Provide your dataset path here
-filepath = r"C:/Users/Dwaipayan/Desktop/New folder/combined_nifty50_data.csv"
+filepath = r"combined_nifty50_data.csv"
 
 df = load_combined_csv(filepath)
 print("✅ Data Loaded Successfully")
