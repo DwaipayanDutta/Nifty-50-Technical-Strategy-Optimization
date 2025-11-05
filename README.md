@@ -22,13 +22,13 @@ The complete process — from data ingestion to optimization and visualization �
 ---
 
 ## 📁 Project Structure
-
-Nifty50_Strategy_Optimization/  
+```
+Nifty-50-Technical-Strategy-Optimization/  
 │  
 ├── Nifty50_Strategy_Optimization.ipynb         # Main Jupyter notebook implementing the strategy  
 ├── combined_nifty50_data.csv                   # Combined stock data CSV file (source: Kaggle)  
 └── README.md                                   # Documentation and project overview  
-
+```
 ---
 ## 📊 Approach Note
 
